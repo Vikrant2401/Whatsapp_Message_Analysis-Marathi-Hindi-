@@ -1,0 +1,26 @@
+WhatsApp Message Analysis (Marathi/Hindi) 📊📱
+📌 About the Project
+This project is a WhatsApp Chat Analyzer that extracts useful insights from WhatsApp conversations. It supports Marathi and Hindi languages by filtering out common stopwords and provides meaningful data visualizations.
+
+🔍 Features
+✅ Message Statistics – Total messages, words, media files, and links shared.
+✅ Word Cloud – Highlights the most frequently used words while filtering stopwords.
+✅ Most Common Words – Identifies the top frequently used words.
+✅ Emoji Analysis – Displays the most used emojis in the chat.
+✅ User Activity Analysis – Shows the most active users in group chats.
+✅ Monthly & Daily Trends – Helps track chat activity over time.
+✅ Heatmap of Chat Activity – Visualizes chat frequency based on time of the day.
+
+📦 Tech Stack Used
+🟢 Python – Core programming language
+🟢 Streamlit – For creating an interactive web application
+🟢 Pandas – Data processing and manipulation
+🟢 Matplotlib & Seaborn – Data visualization
+🟢 WordCloud – Generating word cloud visualizations
+🟢 NLTK – Handling stopwords
+🟢 Emoji – Extracting and analyzing emoji usage
+
+🚀 How to Use?
+1️⃣ Upload a WhatsApp chat file (.txt) from your phone.
+2️⃣ Select User (or analyze overall chat).
+3️⃣ Explore Insights through graphs, word clouds, and tables.
