@@ -15,7 +15,7 @@ marathi_stopwords = {
     "ka", "ho", "zala", "pn", "ky", "la", "tr", "nhi", "na", "ok", "ata", "ch",
     "ahe", "ha", "ani", "mg", "hota", "tu", "nay", "kay", "mala", "te", "pan",
     "cha", "ki", "tya", "nahi", "to", "he", "mi", "majha", "tuzha", "amcha",
-    "tumcha", "mag", "kahi", "karan", "tar", "ti", "tula", "br", ""
+    "tumcha", "mag", "kahi", "karan", "tar", "ti", "tula", "br", "madhe", "mdhe"
 }
 
 # ✅ Common Hindi stopwords (English script)
